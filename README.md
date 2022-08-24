@@ -1,7 +1,5 @@
-## От меня
-Мод для майнкрафта добавляющий пластинки со звукозаписью в виде 
-
----
+## Что за мод?
+Мод для майнкрафта добавляющий пластинки со звукозаписью от Nirvana в версии 8 bit 
 
 ## Исходники
 - https://www.youtube.com/watch?v=qQqcXNW8hSo
@@ -9,8 +7,6 @@
 - https://www.youtube.com/watch?v=xXWYxxRgRlI
 - https://www.youtube.com/watch?v=oXuZ7F-osYM
 - https://www.youtube.com/watch?v=O-akCt16-8I
-
----
 
 Source installation information for modders
 -------------------------------------------
@@ -57,5 +53,3 @@ Community Documentation: http://mcforge.readthedocs.io/en/latest/gettingstarted/
 LexManos' Install Video: https://www.youtube.com/watch?v=8VEdtQLuLO0  
 Forge Forum: https://forums.minecraftforge.net/  
 Forge Discord: https://discord.gg/UvedJ9m  
-
----
