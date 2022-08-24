@@ -1,0 +1,42 @@
+{
+  "nirvana_come_as_you_are": {
+    "sounds": [
+      {
+        "name": "nirvana_musics_mod:nirvana_come_as_you_are",
+        "stream": true
+      }
+    ]
+  },
+  "nirvana_blew": {
+    "sounds": [
+      {
+        "name": "nirvana_musics_mod:nirvana_blew",
+        "stream": true
+      }
+    ]
+  },
+  "nirvana_about_a_girl": {
+    "sounds": [
+      {
+        "name": "nirvana_musics_mod:nirvana_about_a_girl",
+        "stream": true
+      }
+    ]
+  },
+  "nirvana_lithium": {
+    "sounds": [
+      {
+        "name": "nirvana_musics_mod:nirvana_lithium",
+        "stream": true
+      }
+    ]
+  },
+  "nirvana_slts": {
+    "sounds": [
+      {
+        "name": "nirvana_musics_mod:nirvana_slts",
+        "stream": true
+      }
+    ]
+  }
+}
